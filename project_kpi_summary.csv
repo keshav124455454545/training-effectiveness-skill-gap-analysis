@@ -1,0 +1,9 @@
+KPI,Value,Description
+Total Learners,1500.0,Count of learner records
+Number of Variables,35.0,Number of dataset columns
+Average Attendance (%),57.16,Mean attendance percentage
+Average Assignment Completion (%),60.13,Mean assignment completion percentage
+Average Final Assessment,57.13,Mean final assessment score
+Average Project Score,55.41,Mean project score
+Average Technical Skill,55.35,Mean technical skill average
+Average Readiness,55.65,Mean readiness score

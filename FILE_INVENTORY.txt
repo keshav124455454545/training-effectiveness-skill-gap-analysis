@@ -1,0 +1,21 @@
+Included files
+==============
+.gitignore	50 bytes
+README.md	4018 bytes
+data/data_dictionary.csv	1484 bytes
+data/project_kpi_summary.csv	464 bytes
+data/training_effectiveness_1500_records.csv	285557 bytes
+data/training_effectiveness_1500_records.xlsx	498025 bytes
+documentation/POWER_BI_SCREENSHOT_NOTE.txt	314 bytes
+documentation/PROJECT_WORKFLOW.md	1340 bytes
+documentation/power_bi_build_guide_screenshot.png	1685887 bytes
+images/cohort_readiness.png	46159 bytes
+images/correlation_with_readiness.png	47621 bytes
+images/executive_dashboard_preview.png	96763 bytes
+images/performance_bands.png	76529 bytes
+images/technical_skill_averages.png	62744 bytes
+python/analysis.py	2415 bytes
+report/Internship_Report_Data_Driven_Training_Effectiveness.docx	2731571 bytes
+report/Internship_Report_Data_Driven_Training_Effectiveness.pdf	1523101 bytes
+requirements.txt	42 bytes
+sql/analysis_queries.sql	2479 bytes

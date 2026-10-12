@@ -1,0 +1,36 @@
+Column,Description
+Intern_ID,Unique simulated learner identifier
+Cohort,Cohort grouping
+Training_Batch,Training batch label
+Training_Mode,Training delivery mode
+Location,Location category
+Education_Background,Education background category
+Experience_Level,Experience category
+Total_Sessions,Total training sessions
+Sessions_Attended,Sessions attended
+Attendance_Percentage,Attendance percentage
+Assignment_Total,Total assignments
+Assignment_Completed,Assignments completed
+Assignment_Completion_Percentage,Assignment completion percentage
+Practical_Sessions,Practical sessions
+Practical_Attendance,Practical sessions attended
+Quiz_Score,Quiz score
+Assessment_1,Assessment 1 score
+Assessment_2,Assessment 2 score
+Mid_Assessment,Mid-assessment score
+Final_Assessment,Final assessment score
+Project_Score,Project score
+Presentation_Score,Presentation score
+Excel_Score,Excel technical score
+SQL_Score,SQL technical score
+Python_Score,Python technical score
+PowerBI_Score,Power BI technical score
+Statistics_Score,Statistics technical score
+Data_Cleaning_Score,Data cleaning technical score
+Data_Visualization_Score,Data visualization technical score
+Technical_Skill_Average,Average of selected technical skill scores
+Readiness_Score,Project-defined composite readiness score
+Performance_Band,Project-defined performance segment
+Skill_Gap_Score,100 minus technical skill average
+Training_Completion_Status,Project-defined completion category
+Support_Required,Project-defined support flag
