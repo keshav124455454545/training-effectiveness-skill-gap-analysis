@@ -31,21 +31,21 @@ This portfolio project demonstrates a structured data analytics workflow for eva
 ## Report-based visuals
 
 ### Executive dashboard preview
-![Executive dashboard preview](images/executive_dashboard_preview.png)
+![Executive dashboard preview](executive_dashboard_preview.png)
 
 *Designed preview based on the report values; not a screenshot of a saved Power BI `.pbix` file.*
 
 ### Technical skill averages
-![Technical skill averages](images/technical_skill_averages.png)
+![Technical skill averages](technical_skill_averages.png)
 
 ### Cohort readiness
-![Cohort readiness](images/cohort_readiness.png)
+![Cohort readiness](cohort_readiness.png)
 
 ### Performance bands
-![Performance bands](images/performance_bands.png)
+![Performance bands](performance_bands.png)
 
 ### Selected correlations with readiness
-![Correlations with readiness](images/correlation_with_readiness.png)
+![Correlations with readiness](correlation_with_readiness.png)
 
 ## Repository structure
 ```text
