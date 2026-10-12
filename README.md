@@ -33,8 +33,6 @@ This portfolio project demonstrates a structured data analytics workflow for eva
 ### Executive dashboard preview
 ![Executive dashboard preview](executive_dashboard_preview.png)
 
-*Designed preview based on the report values; not a screenshot of a saved Power BI `.pbix` file.*
-
 ### Technical skill averages
 ![Technical skill averages](technical_skill_averages.png)
 
@@ -98,8 +96,6 @@ Import the CSV or Excel workbook into Power BI Desktop. Suggested visuals:
 - Performance band distribution
 - Completion status
 - Slicers for cohort, training mode, location and performance band
-
-A `.pbix` file is not included because no saved Power BI file was available. The executive preview image is clearly labelled as a designed preview.
 
 ## Important interpretation notes
 - The dataset is simulated for academic demonstration.
