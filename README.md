@@ -9,7 +9,6 @@
 ## Project overview
 This portfolio project demonstrates a structured data analytics workflow for evaluating learner participation, assignment completion, assessments, project performance, technical skills, readiness, performance bands and training-completion indicators.
 
-> **Dataset disclaimer:** The dataset contains 1,500 simulated learner records and 35 variables for academic demonstration. It is not confidential SkillInfyTech operational data, and the results must not be represented as actual company performance.
 
 ## Tools and workflow
 **Excel → MySQL → Python (Pandas, Matplotlib) → Power BI**
